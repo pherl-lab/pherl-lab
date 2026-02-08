@@ -1,9 +1,9 @@
 ---
-title: "Allan Lab - Team"
+title: "PHERL Lab - Team"
 layout: gridlay
-excerpt: "Allan Lab: Team members"
+excerpt: "PHERL Lab: Team members"
 sitemap: false
-permalink: /team/
+permalink: pherl-lab/team/
 ---
 
 # Group Members
