@@ -1,6 +1,6 @@
 - name: Ahalya Prabhakar
-  photo: Milan1.jpg
-  info: Lecturer (Aus/UK) at the University of Sydney, Assistant Professor level (US system) 
+  photo: AhalyaPrabhakar_pic.png
+  info: CI- Lecturer (Aus/UK) at the University of Sydney, Assistant Professor level (US system) 
   email: ahalya.prabhakar@sydney.edu.au
   number_educ: 5
   education1: BS Mechanical Engineering from Caltech
@@ -10,10 +10,17 @@
   education5: <a href="https://scholar.google.com/citations?user=7jk2mfMAAAAJ&hl=en">Google Scholar</a>
 
 - name: "This could be you !"
-  photo: rock.jpg
+  photo: SunglassesEmoji.png
   info: See <a href="http://pherl-lab.github.io/pherl-lab/vacancies">openings</a> for more info
   email: ahalya.prabhakar@sydney.edu.au
   number_educ: 0
   education1:
   education2:
   education3:
+
+- name: Lulu
+  photo: Lulu_Beach.jpeg
+  info: Postdog
+  email: 
+  number_educ: 1
+  education1: PhDog in Digging

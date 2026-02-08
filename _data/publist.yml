@@ -1,10 +1,18 @@
-- title: "Mechanical intelligence for learning embodied sensor-object relationships"
+- title: "Active Exploration for Real-Time Haptic Training"
   description: 
-  authors: A. Prabhakar, T. Murphey
+  authors: J. Ketchum,  A. Prabhakar, T. Murphey
   link:
-    url: https://www.nature.com/articles/s41467-022-31795-2
-    display: Nature Communications 2022
-  highlight: 1
+    url: https://arxiv.org/pdf/2405.11776
+    display: International Conference on Robotics and Automation (ICRA) 2024
+  highlight: 0
+
+- title: "A predictive model for tactile force estimation using audio-tactile data"
+  description: 
+  authors: L. Niederhauser, A. Prabhakar, D. Reber, A. Billard
+  link:
+    url: https://ieeexplore.ieee.org/iel7/7083369/7339444/10347357.pdf
+    display: IEEE Robotics and Automation Letters (RA-L) 2023
+  highlight: 0
 
 - title: "Scale-invariant specifications for human-swarm systems"
   description: 
@@ -13,14 +21,6 @@
     url: https://ieeexplore.ieee.org/iel8/10854677/10875987/10876071.pdf
     display: IEEE Transactions on Field Robotics 2023
   highlight: 1
-
-- title: "Active Exploration for Real-Time Haptic Training"
-  description: 
-  authors: J. Ketchum,  A. Prabhakar, T. Murphey
-  link:
-    url: https://arxiv.org/pdf/2405.11776
-    display: International Conference on Robotics and Automation (ICRA) 2024
-  highlight: 0
 
 - title: "Collaborative robots can augment human cognition in regret-sensitive tasks"
   description: 
@@ -38,13 +38,13 @@
     display: International Conference on Intelligent Robots and Systems (IROS) 2023
   highlight: 0
 
-- title: "A predictive model for tactile force estimation using audio-tactile data"
+- title: "Mechanical intelligence for learning embodied sensor-object relationships"
   description: 
-  authors: L. Niederhauser, A. Prabhakar, D. Reber, A. Billard
+  authors: A. Prabhakar, T. Murphey
   link:
-    url: https://ieeexplore.ieee.org/iel7/7083369/7339444/10347357.pdf
-    display: IEEE Robotics and Automation Letters (RA-L) 2023
-  highlight: 0
+    url: https://www.nature.com/articles/s41467-022-31795-2
+    display: Nature Communications 2022
+  highlight: 1
 
 - title: "Ergodic Specifications for Flexible Swarm Control: From User Commands to Persistent Adaptation"
   description: 
