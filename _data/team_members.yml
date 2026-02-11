@@ -11,7 +11,7 @@
 
 - name: "This could be you !"
   photo: SunglassesEmoji.png
-  info: See <a href="http://pherl-lab.github.io/pherl-lab/vacancies">openings</a> for more info
+  info: See <a href="http://pherl-lab.github.io/vacancies">openings</a> for more info
   email: ahalya.prabhakar@sydney.edu.au
   number_educ: 0
   education1:
